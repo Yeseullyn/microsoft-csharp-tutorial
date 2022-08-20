@@ -6,7 +6,9 @@ namespace microsoft_csharp_tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World, My friend!");
+
+            Console.WriteLine("Hello World, My friend!");
         }
     }
 }
